@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+
+# Executable files
+chat
+
+# Build directories (if any)
+build/
+out/
+
+# Editor and system specific files
+*.swp
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
+
+# Dependency management files (if any)
+node_modules/
+vendor/
+
+# Logs (if generated)
+*.log
+
+# IDE settings (if using VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
